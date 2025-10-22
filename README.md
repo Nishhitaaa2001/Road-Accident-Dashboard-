@@ -74,10 +74,5 @@ It provides actionable insights to improve **road safety planning**, optimize **
 
 ---
 
-## 🏷️ Keywords  
-`Excel Dashboard` • `Power Query` • `Pivot Tables` • `Road Accident Analysis` • `Casualty Rate` • `Data Visualization` • `KPI` • `Monthly Trends` • `Road Type Analysis`
 
--
 
-## 🖼️ Project Preview  
-*(Add dashboard images here once uploaded)*  
